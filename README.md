@@ -37,4 +37,8 @@ Frontend:
 3.run `npm run dev` to start serving the application.
 4.Test the Functiionalities .
 ```
+# Author
+- Lokesh Reddy .
+
+--  feel free to contribute to the code base .
 
